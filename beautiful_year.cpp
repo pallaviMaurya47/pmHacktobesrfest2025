@@ -32,4 +32,5 @@ int main()
     cout << sol.nextDistinctYear(y) << endl;
 
     return 0;
+
 }
